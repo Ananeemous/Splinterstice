@@ -1,4 +1,4 @@
-# Splinterstice
+# About Splinterstice
 
 Splinterstice is a decentralized web-based IM inspired by KiwiIRC and Revolt, enhanced with personal features for our standard web client, like a 2.5D GUI. It's primarily for niche online groups native to the "miscellaneous hidden services" on Tor and I2P, The core focus is on those - a term coined by the project's coordinator to describe hidden services on Tor and I2P that are non-indexed, non-illicit, and non-commercial. Meaning that they're not your typical "dark web" or "deep web" hidden services; from NSFL memes to eccentric hobbyist sites, from obscure sociopolitical commentary sites to obscure imageboards to sites that are clearly for shitposting. Splinterstice ensures accessibility only through Tor and I2P for non-registered users, a move designed to prevent dilution by mainstream users, curbing echo chambers and ensuring quality exchanges.
 
